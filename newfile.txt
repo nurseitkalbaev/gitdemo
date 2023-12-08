@@ -3,3 +3,5 @@ Hello World!
 Hello Per Scholas!
 
 Hello Class!
+
+Adding tag to the commit
